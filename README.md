@@ -1,0 +1,2 @@
+# Details
+Website interaktif sederhana
